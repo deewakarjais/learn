@@ -12,8 +12,8 @@
 
 # Command Line History (newest to oldest):
 :wq!
-:Wq!
 :q!
+:Wq!
 
 # Search String History (newest to oldest):
 ?/Password
@@ -28,14 +28,14 @@
 # Registers:
 
 # File marks:
-'0  4  2  ~/hello.rb
+'0  4  0  ~/hello.rb
 '1  9  0  /etc/selinux/config
 '2  78  1  /etc/ssh/sshd_config
 '3  49  0  /etc/ssh/sshd_config
 '4  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
 
 # Jumplist (newest first):
--'  4  2  ~/hello.rb
+-'  4  0  ~/hello.rb
 -'  1  0  ~/hello.rb
 -'  9  0  /etc/selinux/config
 -'  1  0  /etc/selinux/config
@@ -85,11 +85,56 @@
 -'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
 -'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
 -'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  9  0  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  78  1  /etc/ssh/sshd_config
+-'  49  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  78  1  /etc/ssh/sshd_config
+-'  49  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  9  0  /etc/selinux/config
+-'  1  0  /etc/selinux/config
+-'  78  1  /etc/ssh/sshd_config
+-'  49  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  78  1  /etc/ssh/sshd_config
+-'  49  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  1  0  /etc/sysconfig/network-scripts/ifcfg-enp0s3
+-'  17  9  /etc/sysconfig/network-scripts/ifcfg-enp0s3
 
 # History of marks within files (newest to oldest):
 
 > ~/hello.rb
-	"	4	2
+	"	4	0
 	^	4	3
 	.	4	2
 	+	4	2
